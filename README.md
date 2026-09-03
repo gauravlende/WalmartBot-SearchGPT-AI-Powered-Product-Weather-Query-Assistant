@@ -25,8 +25,6 @@ conversational prompts — no need to browse multiple weather sites.
 - Simple, user-friendly web interface
 - Modular design (two independent bots in one app)
 
-## Tech Stack
-_(add your stack here — e.g., Python, Flask/Django, OpenAI API, HTML/CSS/JS, etc.)_
 
 ## How It Works
 1. User enters a prompt (e.g., "What's the price of iPhone 15 on Walmart?")
